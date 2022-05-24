@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HBRYU on Github, mainly active on reddit.
 - I'm a student learning computer programming, mainly game development, as a hobby and hopefully a career someday.
-- I don't do colaborations yet, since I learned half my stuff from youtube not knowing any of the fundementals. I might do some after graduating from collage.
+- I don't do colaborations yet, since I learned half my shit from youtube not knowing any of the fundementals. I might do some after graduating from collage.
 - :)
 
 <!---
