@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HBRYU. I am majoring in Artificial Intelligence in Yonsei University, South Korea.
-- I do game development as a hobby and do AI projects for personal research/studying purposes.
+- I do game development as a hobby and AI projects for personal research/studying purposes.
 
 <!---
 HBRYU/HBRYU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
