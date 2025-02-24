@@ -46,8 +46,8 @@ Hello! I’m **Hanbie Ryu**, a sophomore majoring in **Artificial Intelligence**
 **Yonsei University, Dept. of Artificial Intelligence (B.S, Sophomore)**  
 *March 2023 – Present*
 
-- **Cumulative GPA:** Overall: 4.06/4.3 | Major: 4.15/4.3 *(Ranked 4/47 in class)*
-- **Coursework:** Computer Programming, Object-Oriented Programming, Data Structures, Discrete Mathematics, Linear Algebra, Probability & Statistics, CS231n (Stanford University Open Course)
+- **Cumulative GPA:** 4.0/4.3
+- **Coursework:** Computer Programming, Object-Oriented Programming, Data Structures, Discrete Mathematics, Linear Algebra, Probability & Statistics, Introduction to AI (Research), Deep Learning Mathematics, Computer Systems, Computer Vision, CS231n (Stanford University Open Course)
 
 ---
 
@@ -57,6 +57,7 @@ Hello! I’m **Hanbie Ryu**, a sophomore majoring in **Artificial Intelligence**
 - **1st Semester, 2024 – Honors**  
   *(Awarded to students in the top 10th percentile by GPA)*
 - **TOEIC:** 965/990
+- **QI AI Oriented Research Project, 1st Place - Outstanding Achievement Award, UC Sandiego, CA**
 
 ---
 
@@ -115,9 +116,9 @@ Hello! I’m **Hanbie Ryu**, a sophomore majoring in **Artificial Intelligence**
 - **Languages:** C, C++, C#, Python, HTML, JavaScript  
 - **Machine Learning:** PyTorch, TensorFlow, Keras  
 - **JS Frameworks:** React + Expo, Node.js  
-- **Collaborative Tools:** Git, Docker, Tmux  
+- **Collaborative Tools:** Git, Docker, Tmux 
 - **Embedded Systems:** Arduino, Raspberry Pi  
-- **Creative Tools:** Unity, Photoshop, Blender, FL Studio, Audacity, Premiere Pro
+- **Creative Tools:** Unity, Photoshop, Blender, FL Studio, Audacity, Premiere Pro, KNIME
 
 ---
 
