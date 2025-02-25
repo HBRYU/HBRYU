@@ -1,36 +1,24 @@
-<!-- Banner Image (Optional) -->
-<!-- ![Banner](path/to/banner-image.jpg) -->
 
-# Hanbie Ryu | HBRYU
 
 <div align="center">
-  <img src="profile1.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
+    <t>𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓁𝒶𝓃𝒹𝒻𝒾𝓁𝓁 𝑜𝒻 𝒽𝒶𝓁𝒻-𝒻𝒾𝓃𝒾𝓈𝒽𝑒𝒹 𝓈𝒾𝒹𝑒 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈 𝒶𝓃𝒹 𝓊𝓃𝑜𝓇𝑔𝒶𝓃𝒾𝓏𝑒𝒹 𝓈𝓅𝒶𝑔𝒽𝑒𝓉𝓉𝒾 𝒸𝑜𝒹𝑒</t><br>
+    <img width="500" alt="banner" src="https://github.com/user-attachments/assets/a6870b06-50f2-4f90-a7d6-689de7a9f809" />
 </div>
+
+
+# Hanbie Ryu
+- Unity Game Developer and AI Research Student
+- Student @ Yonsei University, studying AI
+- You can head on to [hbryu.github.io](https://hbryu.github.io) for a fancier bio page
+
+<div align="center">
+  <img width="1859" alt="banner" src="https://github.com/user-attachments/assets/ca70beab-7f5e-4c50-958c-44e896d44427" />
+</div>
+
 
 **Location:** Seoul, South Korea  
 **Email:** [hanbie.ryu@yonsei.ac.kr](mailto:hanbie.ryu@yonsei.ac.kr)  
-**GitHub:** [github.com/HBRYU](https://github.com/HBRYU)  
 **CV:** [Download CV](cv.pdf)
-
----
-
-## About Me
-
-Hello! I’m **Hanbie Ryu**, a sophomore majoring in **Artificial Intelligence** at Yonsei University. Born in Sheffield, England, I have over 7 years of experience in C# development using Unity and am proficient in Python for machine learning and data analysis. I merge my passion for game development with cutting-edge AI research to build intelligent systems for virtual and real-world applications.
-
----
-
-## Roles & Technologies
-
-**Engineer, Designer, & Game Developer**
-
-*Technologies I work with:*  
-<img src="logo images/c++.svg" alt="C++" width="30">  
-<img src="logo images/python.svg" alt="Python" width="30">  
-<img src="logo images/unity (2).svg" alt="Unity" width="30">  
-<img src="logo images/pytorch.svg" alt="PyTorch" width="30">  
-<img src="logo images/fl_studio.svg" alt="FL Studio" width="30">  
-<img src="logo images/ps.svg" alt="Photoshop" width="30">
 
 ---
 
