@@ -45,7 +45,7 @@
 - **1st Semester, 2024 – Honors**  
   *(Awarded to students in the top 10th percentile by GPA)*
 - **TOEIC:** 965/990
-- **QI AI Oriented Research Project, 1st Place - Outstanding Achievement Award, UC Sandiego, CA**
+- **14th Qualcomm Institute AI Research-focused Project, 1st Place - Outstanding Achievement Award, UC Sandiego, CA**
 
 ---
 
